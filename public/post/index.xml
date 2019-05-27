@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ottlngr</title>
+    <link>https://www.ottlngr.de/post/</link>
+    <description>Recent content in Posts on ottlngr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Philipp Ottolinger</copyright>
+    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.ottlngr.de/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Being a package maintainer or: The social contract</title>
+      <link>https://www.ottlngr.de/post/being-a-package-maintainer/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ottlngr.de/post/being-a-package-maintainer/</guid>
+      <description>I am a (R) package maintainer.
+A rational description of that circumstance could be: I&amp;rsquo;m the one who submitted a package to CRAN and it is my e-mail address which is listed in the DESCRIPTION file.
+A hysteric description of that circumstance could be: OMG, did I really submit a package to CRAN, and so, to the entire world? The rest of my life, I gotta keep that shit running!</description>
+    </item>
+    
+  </channel>
+</rss>
